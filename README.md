@@ -1,3 +1,5 @@
+Thông tin thành viên nhóm: Nguyễn Thành Nhân, Võ Ngọc Bảo Huy
+
 Tên đề tài: Ứng dụng cảnh báo có sự thay đổi file/thư mục từ xa
 
 Mô tả các chức năng chính:
