@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.exe.config
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.exe
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.pdb
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.Form1.resources
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.frmClient.resources
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.frmServer.resources
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.exe
+C:\Users\Admin\source\repos\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.pdb
