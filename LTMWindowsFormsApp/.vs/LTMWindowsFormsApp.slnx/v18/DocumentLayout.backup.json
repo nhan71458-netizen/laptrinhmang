@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\",
+  "WorkspaceRootPath": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\ltmwindowsformsapp\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\ltmwindowsformsapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\ltmwindowsformsapp\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\ltmwindowsformsapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|c:\\users\\admin\\source\\repos\\ltmwindowsformsapp\\ltmwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|e:\\new folder\\ltm\\laptrinhmang\\ltmwindowsformsapp\\ltmwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\ltmwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\ltmwindowsformsapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:LTMWindowsFormsApp\\frmClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\ltmwindowsformsapp\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\ltmwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:ltmwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B086ACB-F772-426D-8273-F18638824648}|LTMWindowsFormsApp\\LTMWindowsFormsApp.csproj|solutionrelative:LTMWindowsFormsApp\\frmServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs",
+              "DocumentMoniker": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "LTMWindowsFormsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs",
+              "ToolTip": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs",
               "RelativeToolTip": "LTMWindowsFormsApp\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T16:02:50.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs",
+              "DocumentMoniker": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "LTMWindowsFormsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs [Design]",
+              "ToolTip": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\Form1.cs [Design]",
               "RelativeToolTip": "LTMWindowsFormsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T17:51:47.066Z",
@@ -63,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "frmServer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs",
+              "DocumentMoniker": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs",
               "RelativeDocumentMoniker": "LTMWindowsFormsApp\\frmServer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs",
+              "ToolTip": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs",
               "RelativeToolTip": "LTMWindowsFormsApp\\frmServer.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAwwCsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmServer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs",
+              "DocumentMoniker": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs",
               "RelativeDocumentMoniker": "LTMWindowsFormsApp\\frmServer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs [Design]",
+              "ToolTip": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmServer.cs [Design]",
               "RelativeToolTip": "LTMWindowsFormsApp\\frmServer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T17:52:55.965Z",
@@ -88,24 +88,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmClient.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs",
+              "DocumentMoniker": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs",
               "RelativeDocumentMoniker": "LTMWindowsFormsApp\\frmClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs",
+              "ToolTip": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs",
               "RelativeToolTip": "LTMWindowsFormsApp\\frmClient.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwDEAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T16:05:18.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "frmClient.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs",
+              "DocumentMoniker": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs",
               "RelativeDocumentMoniker": "LTMWindowsFormsApp\\frmClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs [Design]",
+              "ToolTip": "E:\\New folder\\LTM\\laptrinhmang\\LTMWindowsFormsApp\\LTMWindowsFormsApp\\frmClient.cs [Design]",
               "RelativeToolTip": "LTMWindowsFormsApp\\frmClient.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T17:52:56.814Z",
