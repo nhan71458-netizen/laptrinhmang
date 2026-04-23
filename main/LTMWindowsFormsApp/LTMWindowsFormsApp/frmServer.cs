@@ -14,6 +14,7 @@ namespace LTMWindowsFormsApp
         private Socket serverSocket;
         private bool isListening = false;
         private string logFilePath = "ServerLogs.txt";
+        private static readonly object _fileLock = new object();
 
         public frmServer()
         {
@@ -37,14 +38,11 @@ namespace LTMWindowsFormsApp
                     serverSocket.Bind(ep);
                     serverSocket.Listen(10);
                     isListening = true;
-
                     lblStatus.Text = "Trạng thái: Đang lắng nghe ở port 5000...";
                     lblStatus.ForeColor = Color.FromArgb(52, 168, 83);
-
                     btnStart.Enabled = false;
                     btnStart.Text = "SERVER ONLINE";
                     btnStart.BackColor = Color.FromArgb(52, 168, 83);
-
                     UpdateLog("Server đã khởi động");
                     Task.Run(() => AcceptClients());
                 }
@@ -78,7 +76,6 @@ namespace LTMWindowsFormsApp
                 {
                     int receivedBytes = client.Receive(buffer);
                     if (receivedBytes == 0) break;
-
                     string message = Encoding.UTF8.GetString(buffer, 0, receivedBytes);
                     UpdateLog(message);
                     SaveLogToFile(message);
@@ -103,7 +100,6 @@ namespace LTMWindowsFormsApp
             rtbLog.SelectionStart = rtbLog.TextLength;
             rtbLog.SelectionColor = Color.LimeGreen;
             rtbLog.AppendText($"[{DateTime.Now:dd/MM/yyyy HH:mm:ss}] ");
-
             rtbLog.SelectionColor = Color.White;
             rtbLog.AppendText($"{msg}{Environment.NewLine}");
             rtbLog.ScrollToCaret();
@@ -111,18 +107,28 @@ namespace LTMWindowsFormsApp
 
         private void SaveLogToFile(string msg)
         {
-            try
+            lock (_fileLock)
             {
-                string logLine = $"[{DateTime.Now:dd/MM/yyyy HH:mm:ss}] {msg}\n";
-                File.AppendAllText(logFilePath, logLine);
+                try
+                {
+                    string logLine = $"[{DateTime.Now:dd/MM/yyyy HH:mm:ss}] {msg}{Environment.NewLine}";
+                    File.AppendAllText(logFilePath, logLine);
+                }
+                catch { }
             }
-            catch { }
         }
 
         private void frmServer_FormClosing(object sender, FormClosingEventArgs e)
         {
             isListening = false;
-            serverSocket?.Close();
+            try
+            {
+                if (serverSocket != null)
+                {
+                    serverSocket.Close();
+                }
+            }
+            catch { }
         }
 
         private void lblStatus_Click(object sender, EventArgs e) { }

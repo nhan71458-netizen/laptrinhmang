@@ -34,3 +34,15 @@ C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\
 C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.exe
 C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.pdb
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.exe.config
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.exe
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.pdb
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.AssemblyReference.cache
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.Form1.resources
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.frmClient.resources
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.frmServer.resources
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.Properties.Resources.resources
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.GenerateResource.cache
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.exe
+E:\New folder\laptrinhmang\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.pdb
