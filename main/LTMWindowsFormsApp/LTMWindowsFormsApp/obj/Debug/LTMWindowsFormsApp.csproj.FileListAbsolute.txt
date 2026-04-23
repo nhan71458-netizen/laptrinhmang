@@ -22,3 +22,15 @@ C:\Users\ASUS VIVOBOOK\Downloads\demo\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\
 C:\Users\ASUS VIVOBOOK\Downloads\demo\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\ASUS VIVOBOOK\Downloads\demo\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.exe
 C:\Users\ASUS VIVOBOOK\Downloads\demo\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.pdb
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.exe.config
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.exe
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\bin\Debug\LTMWindowsFormsApp.pdb
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.Form1.resources
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.frmClient.resources
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.frmServer.resources
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.Properties.Resources.resources
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.exe
+C:\Users\ASUS VIVOBOOK\Downloads\main\LTMWindowsFormsApp\LTMWindowsFormsApp\obj\Debug\LTMWindowsFormsApp.pdb

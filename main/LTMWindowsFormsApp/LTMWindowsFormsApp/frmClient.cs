@@ -34,7 +34,7 @@ namespace LTMWindowsFormsApp
             try
             {
                 clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                IPEndPoint ep = new IPEndPoint(IPAddress.Parse(ip), 9999);
+                IPEndPoint ep = new IPEndPoint(IPAddress.Parse(ip), 5000);
                 clientSocket.Connect(ep);
 
                 btnConnectAndWatch.Enabled = false;

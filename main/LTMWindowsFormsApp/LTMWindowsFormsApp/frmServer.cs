@@ -30,7 +30,7 @@ namespace LTMWindowsFormsApp
             if (!isListening)
             {
                 serverSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                IPEndPoint ep = new IPEndPoint(IPAddress.Any, 9999);
+                IPEndPoint ep = new IPEndPoint(IPAddress.Any, 5000);
 
                 try
                 {
@@ -38,14 +38,14 @@ namespace LTMWindowsFormsApp
                     serverSocket.Listen(10);
                     isListening = true;
 
-                    lblStatus.Text = "Trạng thái: Đang lắng nghe ở port 9999...";
+                    lblStatus.Text = "Trạng thái: Đang lắng nghe ở port 5000...";
                     lblStatus.ForeColor = Color.FromArgb(52, 168, 83);
 
                     btnStart.Enabled = false;
                     btnStart.Text = "SERVER ONLINE";
                     btnStart.BackColor = Color.FromArgb(52, 168, 83);
 
-                    UpdateLog("--- Server đã khởi động ---");
+                    UpdateLog("Server đã khởi động");
                     Task.Run(() => AcceptClients());
                 }
                 catch (Exception ex)
@@ -62,7 +62,7 @@ namespace LTMWindowsFormsApp
                 try
                 {
                     Socket clientSocket = serverSocket.Accept();
-                    UpdateLog("--- Client mới đã kết nối ---");
+                    UpdateLog("Client mới đã kết nối");
                     Task.Run(() => ReceiveData(clientSocket));
                 }
                 catch { }
@@ -85,7 +85,7 @@ namespace LTMWindowsFormsApp
                 }
                 catch
                 {
-                    UpdateLog("--- Client đã ngắt kết nối ---");
+                    UpdateLog("Client đã ngắt kết nối");
                     break;
                 }
             }
